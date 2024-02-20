@@ -2,7 +2,7 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'Icons/**'
+    image_folder = 'Icons'
     json_data = {
         "name": "图标订阅",
         "description": " ",
